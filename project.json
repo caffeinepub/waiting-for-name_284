@@ -1,0 +1,23 @@
+{
+  "overview": "A modern web app showcasing digital and online services with a blue and white theme, service cards with WhatsApp contact buttons, and a Scan & Pay UPI payment section with QR code.",
+  "features": [
+    "Services grid with icons and hover effects",
+    "Aadhaar PAN and Xerox highlighted services",
+    "WhatsApp contact button per service",
+    "Scan & Pay UPI payment section",
+    "QR code for UPI payment",
+    "PhonePe Google Pay Paytm payment app icons",
+    "Mobile-friendly responsive layout",
+    "Poppins/Inter modern fonts"
+  ],
+  "category": "productivity",
+  "tags": [
+    "services",
+    "upi-payment",
+    "whatsapp",
+    "qr-code",
+    "digital-services",
+    "mobile-friendly"
+  ],
+  "last_updated": "2026-04-08T19:04:21.707Z"
+}
